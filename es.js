@@ -1006,8 +1006,9 @@ server.message.kicked {0} fue Expulsado
 server.message.banned {0} fue Baneado
 server.message.votekicked {0} fue Expulsado por Voto
 server.message.arrested {0} Fue arrestado por la K.P.D
-event.easter.golden.spawn A Golden egg is near
-event.easter.golden.despawn A Golden egg has gone
-event.easter.found.new {0} found {1}/{2} Eggs
-event.easter.found.old You already discovered this egg!
-event.easter.completed {0} completed the Egg hunt!
+event.easter.golden.spawn A Golden egg is near hay un huevo de oro cerca
+event.easter.golden.despawn A Golden egg has gone Un huevo dorado ha desaparecido
+event.easter.found.new {0} found {1}/{2} Encontraste  {1}/{2}
+event.easter.found.old You already discovered this egg!Ya descubriste este huevo!
+event.easter.completed {0} completed the Egg hunt!Completaste la busqueda de huevos!
+
